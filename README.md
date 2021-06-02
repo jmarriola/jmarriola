@@ -5,7 +5,7 @@ My name is Jill (*she/her/hers*) and I am a postdoctoral scholar at [The Pennsyl
 - I'm currently part of an NSF funded project looking at improving estimations of ecosystem metabolism in estuaries.  
 - I’m currently learning a lot of R. I just built my first R package and Shiny app!  
 - You can reach me [here](mailto:jva5648@psu.edu) 
-- Follow me on [Twitter](twitter.com/JillbertPhD)
+- Follow me on [Twitter](twitter.com/JillbertPhD) and [ResearchGate](www.researchgate.net/profile/Jill-Arriola)
 
 <!--
 **jmarriola/jmarriola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
