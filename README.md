@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jill (*she/her/hers*) and I am an Assistant Research Professor at [The Pennsylvania State University](met.psu.edu) in the Department of Meteorology and Atmospheric Science. My PhD is in Marine Sciences from the University of North Carolina at Chapel Hill. I am interested in all things carbon, wetlands, and estuaries. 
+My name is Jill (*she/her/hers*) and I am an Assistant Research Professor at [The Pennsylvania State University](met.psu.edu) in the Department of Meteorology and Atmospheric Science. I have a PhD in Marine Sciences from the University of North Carolina at Chapel Hill. I am interested in all things carbon, wetlands, and estuaries. 
 
 - I'm currently part of 2 NSF funded projects. One looking at improving estimations of ecosystem metabolism in estuaries, the other looking at alkalinity sinks and sources in Chesapeake Bay.  
 - I’m currently learning a lot of R. I just built my first R package and Shiny app!  
